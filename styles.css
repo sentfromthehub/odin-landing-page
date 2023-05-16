@@ -1,0 +1,22 @@
+.header {
+    font-size: 24px;
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 8px;
+}
+
+ul {
+    font-size: 18px;
+    display: flex;
+    color: white;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+    list-style-type: none;
+  }
+
+a {
+    text-decoration: none;
+}
